@@ -1,0 +1,8 @@
+[
+    {
+        "directory": "/home/lmaotrix/projects/minimal-3Dmodeler/src",
+        "command": "gcc -Wall -Wextra -std=c17 -c main.c",
+        "file": "src/main.c"
+    }
+]
+
