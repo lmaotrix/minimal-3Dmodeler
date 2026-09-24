@@ -3,4 +3,4 @@ CompileFlags:
     - -std=c17
     - -Wall
     - -Wextra
-
+    - -IC:/w64devkit/include
